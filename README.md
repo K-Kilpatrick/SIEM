@@ -92,3 +92,5 @@ In this week's Challenge, students will develop Splunk searches, custom reports,
 
 Looking Forward
 Next week, we learn advanced Splunk skills, such as how to design visualizations and build dashboards. We will also preview Splunk's  SIEM product Splunk Enterprise Security and introduce Splunk careers and certifications. We will conclude the week with a fun and challenging Splunk mini-project called Master of the SOC.
+
+
